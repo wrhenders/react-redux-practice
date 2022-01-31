@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Hello WOrld",
+      "description": "This is the beginning of the end",
+      "userId": "116130679016875007604",
+      "id": 2
+    },
+    {
+      "title": "Test 4",
+      "description": "You beautiful Stream!",
+      "id": 5
+    },
+    {
+      "title": "New Show",
+      "description": "Our SHoWDkW~~!!",
+      "userId": "116130679016875007604",
+      "id": 6
+    }
+  ]
+}
